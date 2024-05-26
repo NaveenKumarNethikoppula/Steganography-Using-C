@@ -6,6 +6,6 @@
 #define MAX_FILE_SUFFIX 4
 
 /* Magic string to identify whether stegged or not */
-#define MAGIC_STRING "23039"//#*
+#define MAGIC_STRING "23039"
 
 #endif
